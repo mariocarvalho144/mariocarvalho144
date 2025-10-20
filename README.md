@@ -4,4 +4,4 @@
 🌐 Conecte-se comigo: [LinkedIn](www.linkedin.com/in/mario-carvalho-2b4148389)
 
 ![Mário's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariocarvalho144&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariocarvalho144&layout=compact&theme=tokyonight)
+
